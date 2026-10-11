@@ -25,3 +25,4 @@ This blog is where I share notes and articles about:
 ## Find me
 
 - GitHub: [rahma145](https://github.com/rahma145)
+- LinkedIn: [Rahma Rahali](https://www.linkedin.com/in/rahma-rahali-78a268144/)
