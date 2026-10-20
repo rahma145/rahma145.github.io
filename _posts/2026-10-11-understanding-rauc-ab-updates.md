@@ -1,7 +1,7 @@
 ---
 title: "Understanding RAUC: A/B Updates on Embedded Linux"
 description: "Why in-place updates are risky, how an A/B scheme fixes it, and how RAUC and U-Boot work together to install, boot and roll back an update."
-date: 2026-10-11 18:00:00 +0100
+date: 2026-10-19 18:00:00 +0100
 categories: [Embedded Linux]
 tags: [rauc, ota, u-boot, ab-update, embedded-linux]
 mermaid: true
