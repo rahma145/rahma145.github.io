@@ -1,7 +1,7 @@
 ---
 title: "RAUC Bundles: Signing, dm-verity and Installation"
 description: "How a RAUC bundle is built, signed with CMS, protected block by block with dm-verity, and installed step by step on an embedded Linux device."
-date: 2026-10-11 18:30:00 +0100
+date: 2026-10-19 18:30:00 +0100
 categories: [Embedded Linux]
 tags: [rauc, ota, dm-verity, cms, signing, security, embedded-linux]
 mermaid: true
