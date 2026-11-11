@@ -1,6 +1,6 @@
 ---
 title: "U-Boot Hands-On: Booting Linux on a Raspberry Pi 4"
-description: "Three labs on the U-Boot console: boot Linux manually, automate it with bootcmd, and inspect the Device Tree. Plus the boot commands (bootm, bootz, booti, ...) and which kernel image type each one expects."
+description: "Three labs on the U-Boot console: boot Linux manually, automate it with bootcmd, and inspect the Device Tree."
 date: 2026-11-11 09:10:00 +0100
 categories: [Embedded Linux]
 tags: [u-boot, raspberry-pi, bootcmd, device-tree, bootm, booti, bootz, embedded-linux]
